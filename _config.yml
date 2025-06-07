@@ -121,7 +121,7 @@ author:
   
   googlescholar    : "https://scholar.google.ca/citations?user=7CXEubUAAAAJ&hl=en&oi=sra"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-5701-8506"
+  orcid            : "0000-0002-5701-8506"
   semantic         : # URL
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Huck+Julia"
   researchgate     : "https://www.researchgate.net/profile/Julia-Huck"
@@ -141,9 +141,10 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/juliahuck"
-    - label: "orchid"
-      icon: "fab fa-fw fa-orchid"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0002-5701-8506"
+
 
 
 
