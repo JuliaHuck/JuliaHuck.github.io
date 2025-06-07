@@ -276,3 +276,16 @@ toc_sticky: true
     </tr>
   </table>
 
+### Abstract Peer-reviewed Un-Published
+ <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none; padding: 10px;">
+        Vanderweyen D*, <strong>Huck J*</strong>, Côté S*, Fathy K*, Remahi S, Rheault F, Beaudoin, A-M, Whittingstall K.  
+        White matter hyperintensities preferentially accumulate within the border zones regions of the brain in healthy,  
+        <em>Radiology Conference & Annual Meeting</em>.  
+         <strong>Chicago, IL, USA, </strong> December 2024
+        <br><strong>* These authors contributed equally to this work</strong>
+        <br><strong>** abstract received the Trainee Research Prize award</strong>
+      </td>
+    </tr>
+  </table>
