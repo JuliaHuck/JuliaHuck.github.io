@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: assets/images/VENAT_single_participant.png
-  height: "300px"
+  width: "300px"
 ---
 
 <img src="/assets/julia_photo.png" width="340px" alt="Julia Huck" align="right" style="margin-left: 40px; margin-bottom: 10px;" />
