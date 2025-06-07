@@ -131,18 +131,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JuliaHuck"
-    - label: "googlescholar"
-      icon: "fab fa-fw fa-github"
-      url: "https://scholar.google.ca/citations?user=7CXEubUAAAAJ&hl=en&oi=sra"
-    - label: "orcid"
-      icon: "fab fa-fw fa-github"
-      url: "https://orcid.org/0000-0002-5701-8506"
-    - label: "pubmed"
-      icon: "fab fa-fw fa-github"
-      url: ""https://pubmed.ncbi.nlm.nih.gov/?term=Huck+Julia"
-    - label: "researchgate"
-      icon: "fab fa-fw fa-github"
-      url: "https://www.researchgate.net/profile/Julia-Huck"
 
 
 
@@ -165,18 +153,6 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-    - label: "googlescholar"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-    - label: "orcid"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-    - label: "pubmed"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-    - label: "researchgate"
       icon: "fab fa-fw fa-instagram"
       # url:
 
