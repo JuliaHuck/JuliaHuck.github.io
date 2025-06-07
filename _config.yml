@@ -21,7 +21,7 @@ title                    : "Julia Huck"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Julia Huck"
-description              : "Neuroscientist."
+description              : "Neuroscientist"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -130,19 +130,7 @@ author:
       # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/JuliaHuck
-    - label: "googlescholar"
-      icon: "fab fa-fw fa-github"
-      url: "https://scholar.google.ca/citations?user=7CXEubUAAAAJ&hl=en&oi=sra"
-    - label: "orcid"
-      icon: "fab fa-fw fa-github"
-      url: "https://orcid.org/0000-0002-5701-8506"
-    - label: "pubmed"
-      icon: "fab fa-fw fa-github"
-      url: ""https://pubmed.ncbi.nlm.nih.gov/?term=Huck+Julia"
-    - label: "researchgate"
-      icon: "fab fa-fw fa-github"
-      url: "https://www.researchgate.net/profile/Julia-Huck"
+      url: "https://github.com/JuliaHuck"
 
 
 
