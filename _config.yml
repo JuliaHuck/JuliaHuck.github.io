@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Julia Huck"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Julia Huck"
+description              : "Neuroscientist."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,30 +113,38 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Julia Huck"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
-  email            :
+  email            : Julia.Huck@usherbrooke.ca
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:JuliaHuck@usherbrooke.ca"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://JuliaHuck.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/JuliaHuck
+    - label: "googlescholar"
+      icon: "fab fa-fw fa-github"
+      url: "https://scholar.google.ca/citations?user=7CXEubUAAAAJ&hl=en&oi=sra"
+    - label: "orcid"
+      icon: "fab fa-fw fa-github"
+      url: "https://orcid.org/0000-0002-5701-8506"
+    - label: "pubmed"
+      icon: "fab fa-fw fa-github"
+      url: ""https://pubmed.ncbi.nlm.nih.gov/?term=Huck+Julia"
+    - label: "researchgate"
+      icon: "fab fa-fw fa-github"
+      url: "https://www.researchgate.net/profile/Julia-Huck"
+
+
 
 # Site Footer
 footer:
