@@ -114,6 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Julia Huck"
+  avatar           : "/assets/julia_photo.png" 
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a neuroscientist."
   location         : "Sherbrooke, QC, Canada"
