@@ -119,12 +119,12 @@ author:
   location         : "Somewhere"
   email            : # Julia.Huck@usherbrooke.ca
   
-  googlescholar    : "https://scholar.google.ca/citations?user=7CXEubUAAAAJ&hl=en&oi=sra"
+  googlescholar    : #"https://scholar.google.ca/citations?user=7CXEubUAAAAJ&hl=en&oi=sra"
   impactstory      : # URL
-  orcid            : "0000-0002-5701-8506"
+  orcid            : #"0000-0002-5701-8506"
   semantic         : # URL
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Huck+Julia"
-  researchgate     : "https://www.researchgate.net/profile/Julia-Huck"
+  pubmed           : #"https://pubmed.ncbi.nlm.nih.gov/?term=Huck+Julia"
+  researchgate     : #"https://www.researchgate.net/profile/Julia-Huck"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -144,6 +144,15 @@ author:
     - label: "ORCID"
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0002-5701-8506"
+    - label: "googlescholar"
+      icon: "fab fa-googlescholar"
+      url: "https://scholar.google.ca/citations?user=7CXEubUAAAAJ&hl=en&oi=sra"
+    - label: "pubmed"
+      icon: "fab fa-pubmed"
+      url: "https://pubmed.ncbi.nlm.nih.gov/?term=Huck+Julia"
+    - label: "researchgate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Julia-Huck"
 
 
 
