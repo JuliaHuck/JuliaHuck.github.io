@@ -4,10 +4,13 @@ layout: archive
 sitemap: true
 permalink: /publications/
 author_profile: true
+toc: true
+toc_label: "Publications"
+toc_icon: "gear"
+toc_sticky: true
 ---
+## Journal Articles
 
-<details open>
-  <summary><strong>Journal Articles</strong></summary>
  <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none; padding: 10px;">
@@ -127,10 +130,11 @@ author_profile: true
       </td>
     </tr> 
   </table>
-</details>
 
-<details open>
-  <summary><strong>Published Abstracts</strong></summary>
+
+## Abstracts
+### Published Abstracts
+
  <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none; padding: 10px;">
@@ -271,4 +275,4 @@ author_profile: true
       </td>
     </tr>
   </table>
-</details>
+
