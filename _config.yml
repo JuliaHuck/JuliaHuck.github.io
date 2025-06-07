@@ -353,3 +353,9 @@ defaults:
       layout: single
       author_profile: true
       author_profile: true
+
+header_pages:
+  - _pages/home.md
+  #- _pages/about.md
+  #- _pages/publications.md
+
