@@ -12,7 +12,7 @@ author_profile: true
     <tr>
       <td style="border: none; padding: 10px;">
         <a href="/assets/images/NOMAS_Fig3.jpg">
-          <img src="/assets/images/NOMAS_Fig3.jpg" style="width:400px;" alt="NOMAS figure">
+          <img src="/assets/images/NOMAS_Fig3.jpg" style="width:800px;" alt="NOMAS figure">
         </a>
       </td>
       <td style="border: none; padding: 10px;">
@@ -25,7 +25,7 @@ author_profile: true
        <tr>
       <td style="border: none; padding: 10px;">
         <a href="/assets/images/Sanami_F1.jpg">
-          <img src="/assets/images/Sanami_F1.jpg" style="width:400px;" alt="Sanami Figure 1">
+          <img src="/assets/images/Sanami_F1.jpg" style="width:800px;" alt="Sanami Figure 1">
         </a>
       </td>
       <td style="border: none; padding: 10px;">
