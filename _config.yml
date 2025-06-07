@@ -149,10 +149,10 @@ author:
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0002-5701-8506"  
     - label: "googlescholar"
-      icon: "fab fa-googlescholar"
+      icon: "fab fa-graduation-cap"
       url: "https://scholar.google.ca/citations?user=7CXEubUAAAAJ&hl=en&oi=sra"
     - label: "pubmed"
-      icon: "fab fa-pubmed"
+      icon: "fab fa-book-medical"
       url: "https://pubmed.ncbi.nlm.nih.gov/?term=Huck+Julia"
     
 
