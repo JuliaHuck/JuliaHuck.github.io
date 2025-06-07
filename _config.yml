@@ -116,7 +116,8 @@ author:
   name             : "Julia Huck"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a neuroscientist."
-  location         : "Somewhere"
+  location         : "Sherbrooke, QC, Canada"
+  employer         : "Université de Sherbrooke"
   email            : # Julia.Huck@usherbrooke.ca
   
   googlescholar    : #"https://scholar.google.ca/citations?user=7CXEubUAAAAJ&hl=en&oi=sra"
@@ -131,7 +132,7 @@ author:
       url: "mailto:JuliaHuck@usherbrooke.ca"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://JuliaHuck.github.io"
+      url: #"https://JuliaHuck.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -141,18 +142,19 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/juliahuck"
+    - label: "researchgate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Julia-Huck"
     - label: "ORCID"
       icon: "fab fa-orcid"
-      url: "https://orcid.org/0000-0002-5701-8506"
+      url: "https://orcid.org/0000-0002-5701-8506"  
     - label: "googlescholar"
       icon: "fab fa-googlescholar"
       url: "https://scholar.google.ca/citations?user=7CXEubUAAAAJ&hl=en&oi=sra"
     - label: "pubmed"
       icon: "fab fa-pubmed"
       url: "https://pubmed.ncbi.nlm.nih.gov/?term=Huck+Julia"
-    - label: "researchgate"
-      icon: "fab fa-researchgate"
-      url: "https://www.researchgate.net/profile/Julia-Huck"
+    
 
 
 
@@ -162,7 +164,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: https://x.com/JuliaHuck2
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
