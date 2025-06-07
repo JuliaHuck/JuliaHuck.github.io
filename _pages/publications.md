@@ -12,7 +12,7 @@ author_profile: true
     <tr>
       <td style="border: none; padding: 10px;">
         <a href="/assets/images/NOMAS_Fig3.jpg">
-          <img src="/assets/images/NOMAS_Fig3.jpg" style="width:200px;" alt="NOMAS figure">
+          <img src="/assets/images/NOMAS_Fig3.jpg" style="width:400px;" alt="NOMAS figure">
         </a>
       </td>
       <td style="border: none; padding: 10px;">
@@ -25,7 +25,7 @@ author_profile: true
        <tr>
       <td style="border: none; padding: 10px;">
         <a href="/assets/images/Sanami_F1.jpg">
-          <img src="/assets/images/Sanami_F1.jpg" style="width:200px;" alt="Sanami Figure 1">
+          <img src="/assets/images/Sanami_F1.jpg" style="width:400px;" alt="Sanami Figure 1">
         </a>
       </td>
       <td style="border: none; padding: 10px;">
@@ -38,7 +38,7 @@ author_profile: true
    <tr>
       <td style="border: none; padding: 10px;">
         <a href="/assets/images/Zhou_F3.jpg">
-          <img src="/assets/images/Zhou_F3.jpg" style="width:200px;" alt="Zhou Figure 3">
+          <img src="/assets/images/Zhou_F3.jpg" style="width:400px;" alt="Zhou Figure 3">
         </a>
       </td>
       <td style="border: none; padding: 10px;">
@@ -51,7 +51,7 @@ author_profile: true
     <tr>
       <td style="border: none; padding: 10px;">
         <a href="/assets/images/rs_state_image.jpg">
-          <img src="/assets/images/rs_state_image.jpg" style="width:200px;" alt="Resting state figure">
+          <img src="/assets/images/rs_state_image.jpg" style="width:400px;" alt="Resting state figure">
         </a>
       </td>
       <td style="border: none; padding: 10px;">
@@ -64,7 +64,7 @@ author_profile: true
     <tr>
       <td style="border: none; padding: 10px;">
         <a href="/assets/images/Intzandt_SexDifferences.jpg">
-          <img src="/assets/images/Intzandt_SexDifferences.jpg" style="width:200px;" alt="Intzandt Sex Differences">
+          <img src="/assets/images/Intzandt_SexDifferences.jpg" style="width:400px;" alt="Intzandt Sex Differences">
         </a>
       </td>
       <td style="border: none; padding: 10px;">
@@ -77,7 +77,7 @@ author_profile: true
    <tr>
       <td style="border: none; padding: 10px;">
         <a href="/assets/images/Intzandt_LitReview.jpg">
-          <img src="/assets/images/Intzandt_LitReview.jpg" style="width:200px;" alt="Intzandt Literature Review">
+          <img src="/assets/images/Intzandt_LitReview.jpg" style="width:400px;" alt="Intzandt Literature Review">
         </a>
       </td>
       <td style="border: none; padding: 10px;">
@@ -90,7 +90,7 @@ author_profile: true
    <tr>
       <td style="border: none; padding: 10px;">
         <a href="/assets/images/Jaeger_F4.jpg">
-          <img src="/assets/images/Jaeger_F4.jpg" style="width:200px;" alt="Jaeger Figure 4">
+          <img src="/assets/images/Jaeger_F4.jpg" style="width:400px;" alt="Jaeger Figure 4">
         </a>
       </td>
       <td style="border: none; padding: 10px;">
@@ -103,7 +103,7 @@ author_profile: true
    <tr>
       <td style="border: none; padding: 10px;">
         <a href="/assets/images/Tremblay_F3.jpg">
-          <img src="/assets/images/Tremblay_F3.jpg" style="width:200px;" alt="Tremblay Figure 3">
+          <img src="/assets/images/Tremblay_F3.jpg" style="width:400px;" alt="Tremblay Figure 3">
         </a>
       </td>
       <td style="border: none; padding: 10px;">
@@ -116,7 +116,7 @@ author_profile: true
      <tr>
       <td style="border: none; padding: 10px;">
         <a href="/assets/images/VENAT_image.jpg">
-          <img src="/assets/images/VENAT_image.jpg" style="width:200px;" alt="VENAT figure">
+          <img src="/assets/images/VENAT_image.jpg" style="width:400px;" alt="VENAT figure">
         </a>
       </td>
       <td style="border: none; padding: 10px;">
