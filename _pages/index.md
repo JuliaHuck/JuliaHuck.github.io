@@ -22,7 +22,7 @@ header:
     <li><strong>{% include colored-degree.html label="Cerebrovascular Health and Brain Aging" %}</strong><br>
     Investigating how vascular factors such as white matter hyperintensities (WMHs), cerebral perfusion, and oxygen metabolism contribute to cognitive decline during aging.</li>
 
-    <li><strong>Quantitative MRI and Hemodynamic Mapping</strong><br>
+    <li><strong>{% include colored-degree.html label="Quantitative MRI and Hemodynamic Mapping" %}</strong><br>
     Developing and applying advanced MRI techniques (e.g., QSM, OEF mapping, ASL) to assess brain oxygenation, perfusion, and microvascular integrity.</li>
 
     <li><strong>Vascular Contributions to Neurodegeneration</strong><br>
