@@ -10,6 +10,15 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
+## Postdoctoral Training
+<div class="archive__item">
+  <strong>{% include colored-degree.html label="Postdoctoral Fellow" %}</strong><br>
+  Université de Sherbrooke, Sherbrooke, Quebec, Canada<br>
+  <em>2023–today</em><br>
+  <strong>Research focus:</strong> <em>Vascular contributions to brain aging and neurodegeneration using advanced MRI analysis and algorithm development</em><br>
+  <strong>Supervisor:</strong> Kevin Whittingstall
+</div>
+
 
 ## Education
 <div class="archive__item">
@@ -25,8 +34,8 @@ toc_sticky: true
   <strong>{% include colored-degree.html label="M.Sc. Medical Engineering" %}</strong><br>
   Friedrich-Alexander University, Erlangen-Nürnberg, Germany<br>
   <em>2012–2015</em><br>
-  <strong>Thesis:</strong> Tracking of Saluent Structures in X-Ray Fluoroscopy Sequences<br>
-  <strong>Supervisor: Andreas Maier</strong>
+  <strong>Thesis:</strong> <em>Tracking of Saluent Structures in X-Ray Fluoroscopy Sequences</em><br>
+  <strong>Supervisor:</strong> Andreas Maier
 </div>
 
 <br>
@@ -34,8 +43,8 @@ toc_sticky: true
   <strong>{% include colored-degree.html label="B.Sc. Medical Engineering and Sports Medical Engineering" %}</strong><br>
   Hochschule Koblenz – RheinAhrCampus, Remagen, Germany<br>
   <em>2008–2012</em><br>
-  <strong>Thesis:</strong> Development of an in vitro-test for liability for encapsulation of intellugent implants<br>
-  <strong>Supervisor:Volker Bucher and Jens Bongartz</strong>
+  <strong>Thesis:</strong> <em>Development of an in vitro-test for liability for encapsulation of intellugent implants</em><br>
+  <strong>Supervisor:</strong>Volker Bucher and Jens Bongartz
 </div>
 
 ## Skills
