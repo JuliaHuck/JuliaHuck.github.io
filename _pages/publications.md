@@ -141,7 +141,7 @@ toc_sticky: true
         <strong>Huck J</strong>, Vanderweyen D, Rundek T, Elkind MSV, Gutierrez J, Descoteaux M, Whittingstall K.  
         Assessing the Precision of Automated Detection and Diameter Estimation of Cerebral Arteries in the Circle of Willis Among Healthy NOMAS Cohort Participants,  
         <em>American Academy of Neurology (AAN)</em>.  
-         <strong>San Diego, USA, </strong> April 2025
+         <strong>San Diego, CA, USA, </strong> April 2025
       </td>
     </tr>
    <tr>
@@ -149,7 +149,7 @@ toc_sticky: true
         Nguyen C N, <strong>Huck J</strong>, Gutierrez J., Whittingstall K.  
         Automatic mild intracranial stenosis detection in the Circle of Willis from Time-of-flight MRA,  
         <em>American Academy of Neurology (AAN)</em>.  
-         <strong>San Diego, USA, </strong> April 2025
+         <strong>San Diego, CA, USA, </strong> April 2025
       </td>
     </tr>
    <tr>
@@ -157,7 +157,7 @@ toc_sticky: true
         Langlois M, <strong>Huck J</strong>, Cote S, Vanderweyen D, Marchildon C, Arguin M, Doyon M, Michaud A, Gingras V, Perron P, Hivert MF, Bouchard L, Whittingstall K.  
         The Origins of Posterior Communicating Artery Variations in the Circle of Willis,  
         <em>American Academy of Neurology (AAN)</em>.  
-         <strong>San Diego, USA, </strong> April 2025
+         <strong>San Diego, CA, USA, </strong> April 2025
       </td>
     </tr>
    <tr>
@@ -190,7 +190,7 @@ toc_sticky: true
         Intzandt B, Sanami S, <strong>Huck J</strong>, Hoge RD, Gauthier CJ, Bherer L, PREVENT-AD Research Group.  
         Sex Differences In The Relationships Among Grey Matter Volume, Physical Activity And Obesity In Aging,
         <em>Medicine & Science in Sports & Exercise, 54(9S):596-596</em>.  
-         <strong>San Diego, USA, </strong> July 2022, 
+         <strong>San Diego, CA, USA, </strong> July 2022, 
         doi: <a href="https://doi.org/10.1249/01.mss.0000882540.43037.03">10.1249/01.mss.0000882540.43037.03</a>
       </td>
     </tr>
@@ -280,7 +280,7 @@ toc_sticky: true
  <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none; padding: 10px;">
-        Vanderweyen D*, <strong>Huck J*</strong>, Côté S*, Fathy K*, Remahi S, Rheault F, Beaudoin, A-M, Whittingstall K.  
+        Vanderweyen D*, <strong>Huck J*</strong>, Côté S*, Fathy K*, Remahi S, Rheault F, Beaudoin A-M, Whittingstall K.  
         White matter hyperintensities preferentially accumulate within the border zones regions of the brain in healthy,  
         <em>Radiology Conference & Annual Meeting</em>.  
          <strong>Chicago, IL, USA, </strong> December 2024
@@ -288,4 +288,45 @@ toc_sticky: true
         <br><strong>** abstract received the Trainee Research Prize award</strong>
       </td>
     </tr>
+   <tr>
+      <td style="border: none; padding: 10px;">
+        Langlois M, <strong>Huck J</strong>, Nguyen C N, Vanderweyen D, Côté S, Bouchard L, Whittingstall K.  
+        L’origine des variations anatomiques des artères communicantes du cercle de willis,  
+        <em>FMSS Scientific Day</em>.  
+         <strong>Sherbrooke, Canada </strong> June 2024
+      </td>
+    </tr>
+   <tr>
+      <td style="border: none; padding: 10px;">
+        Vanderweyen D*, <strong>Huck J*</strong>, Côté S*, Fathy K*, Remahi S, Rheault F, Beaudoin A-M, Whittingstall K.  
+        L'Accumulation préférentielle des hyperintensités de la matière blanche dans les régions limitrophes du cerveau chez les individus sains,  
+        <em>FMSS Scientific Day</em>.  
+         <strong>Sherbrooke, Canada </strong> June 2024
+         <br><strong>* These authors contributed equally to this work</strong>
+      </td>
+    </tr>
+   <tr>
+      <td style="border: none; padding: 10px;">
+        Nguyen C N,<strong>Huck J</strong>, Cote S, Tetreault P, Whittingstall K.  
+         Évaluation quantitative des rétrécissements artériels au polygone de willis: une approche basée sur la surface,  
+        <em>FMSS Scientific Day</em>.  
+         <strong>Sherbrooke, Canada </strong> June 2024
+      </td>
+    </tr>
+   <tr>
+      <td style="border: none; padding: 10px;">
+        Nguyen C N,<strong>Huck J</strong>, Cote S, Tetreault P, Whittingstall K.  
+        Amélioration de la quantification du polygone de Willis: une approche basée sur la reconstruction en 3d de la surface,  
+        <em>Québec Bio-Imaging Network Annual Research Day</em>.  
+         <strong>Montreal, Canada </strong> May 2024
+      </td>
+    </tr>
   </table>
+
+
+
+Doyon V, Côté S, Huck J, Whittingstall K. Étude de la perfusion de l’hippocampe par Super selective arterial spin labelling en IRM. Quebec BioImaging Network Annual Conference. Montreal, Canada; May 2024
+Vanderweyen D, Coté S, Huck J, Fathy F, Remahi S, Rheault F, Whittingstall K, Beaudoin A-M. White Matter Hyperintensities preferentially accumulates within the Border Zones Regions of the Brain in Healthy Individuals. Radiological Society of North America (RSNA), Chicago, USA, December 2024
+Huck J, Jäger AT, Fan AP, Steele CJ, Grahl S, Schneider U, Villringer A, Tardif CL, Bazin PL, Gauthier CJ; The bias of veins on resting state measures of centrality Quebec Bio-Imaging Network Annual Conference. Montreal, Canada February 2020
+Huck J, Jäger AT, Fan AP, Steele CJ, Grahl S, Schneider U, Villringer A, Tardif CL, Bazin PL, Gauthier CJ; Global Degree centrality (DegC) in resting-state functional MRI is higher in nodes near veins and decreases over distance. Quebec Bio-Imaging Network Annual Conference and PERFORM Centre Research Conference. Montreal, Canada March and May 2019, respectively
+Huck J, Wanner Y, Fan AP, Schmidt AT, Grahl S, Schneider U, Villringer A, Steele CJ, Tardif CL, Bazin PL, Gauthier CJ; High resolution atlasing of the venous brain vasculature from 7T quantitative susceptibility. Quebec Bio-Imaging Network Annual Conference and PERFORM Centre Research Conference. Montreal, Canada March and May 2018, respectively
