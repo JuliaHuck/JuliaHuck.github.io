@@ -52,7 +52,7 @@ toc_sticky: true
 <details open>
   <summary><strong>Programming Languages</strong></summary>
 
-   <div style="display: block; width: 100%;">
+   <div style="width: 100%;">
     <table style="text-align: center; border-collapse: collapse;">
       <thead>
         <tr style="background-color: #ccc;">
@@ -131,7 +131,8 @@ toc_sticky: true
   </ul>
 </div>
 
-
+<!-- This table is under review and should not be displayed for now -->
+<!-- 
 ## Mentorship
 <ul>
   <li><strong>Yvonne Wanner</strong>, MITACS summer intern<br>
@@ -165,3 +166,4 @@ toc_sticky: true
       <em>January 2024 – Present</em>
   </li>
 </ul>
+-->
