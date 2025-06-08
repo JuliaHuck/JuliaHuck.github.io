@@ -52,7 +52,7 @@ toc_sticky: true
 <details open>
   <summary><strong>Programming Languages</strong></summary>
 
-  <div style="width: 100%; display: flex; justify-content: center;">
+   <div style="display: block; width: 100%;">
     <table style="text-align: center; border-collapse: collapse;">
       <thead>
         <tr style="background-color: #ccc;">
