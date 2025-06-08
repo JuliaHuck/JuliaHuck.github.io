@@ -278,6 +278,46 @@ toc_sticky: true
 
 ### Abstract Peer-reviewed Un-Published
  <table style="border-collapse: collapse; border: none;">
+   <tr>
+      <td style="border: none; padding: 10px;">
+        Wing C, Gillet V, Bilodeau ML, Bouchard V, Coté S, <strong>Huck J</strong>,  Ouellet A, Whittingstall K.  
+        Remodelage des vaisseaux cérébraux maternels lors d'une grossesse normale,  
+        <em>Journée scientifique de la FMSS</em>.  
+         <strong>Sherbrooke, Canada </strong> June 2025
+      </td>
+    </tr>
+   <tr>
+      <td style="border: none; padding: 10px;">
+        Nguyen CN, <strong>Huck J</strong>,  Côté S, Tétreault P, Whittingstall K.  
+        Détection automatique des sténoses intracrâniennes légères dans le polygone de Willis à partir de l'IRM par temps de vol (TOF-MRA),  
+        <em>Journée scientifique de la FMSS</em>.  
+         <strong>Sherbrooke, Canada </strong> June 2025
+      </td>
+    </tr>
+   <tr>
+      <td style="border: none; padding: 10px;">
+        <strong>Huck J</strong>, Vanderweyen D, Rundek T, Elkind M, Gutierrez J, Descoteaux M, Whittingstall K.  
+        Assessing the Precision of Automated Detection and Diameter Estimation of Cerebral Arteries in the Circle of Willis,  
+        <em>Colloque d'imagerie médicale de Québec</em>.  
+         <strong>Quebec, Canada </strong> May 2025
+      </td>
+    </tr>
+   <tr>
+      <td style="border: none; padding: 10px;">
+        Nguyen CN, <strong>Huck J</strong>,  Côté S, Tétreault P, Whittingstall K.  
+        Détection automatique des sténoses intracrâniennes légères dans le polygone de Willis à partir de l'IRM par temps de vol (TOF-MRA),  
+        <em>Journée scientifique de la FMSS</em>.  
+         <strong>Quebec, Canada </strong> May 2025
+      </td>
+    </tr>
+    <tr>
+      <td style="border: none; padding: 10px;">
+        Langlois M, <strong>Huck J</strong>,  Cote S, Vanderweyen D, Marchildon C, Arguin M, Doyon M, Michaud A, Gingras V, Perron P, Hivert MF, Bouchard L, Whittingstall K.  
+        L'origine des variations anatomiques des artères communicantes du cercle de Willis,  
+        <em>Journée scientifique de la FMSS</em>.  
+         <strong>Quebec, Canada </strong> May 2025
+      </td>
+    </tr>
     <tr>
       <td style="border: none; padding: 10px;">
         Vanderweyen D*, <strong>Huck J*</strong>, Côté S*, Fathy K*, Remahi S, Rheault F, Beaudoin A-M, Whittingstall K.  
@@ -328,16 +368,7 @@ toc_sticky: true
         <em>Québec Bio-Imaging Network Annual Research Day</em>.  
          <strong>Montreal, Canada </strong> May 2024
       </td>
-    </tr>
-   <tr>
-      <td style="border: none; padding: 10px;">
-        Vanderweyen D*, <strong>Huck J*</strong>, Côté S*, Fathy K*, Remahi S, Rheault F, Beaudoin A-M, Whittingstall K.  
-        White Matter Hyperintensities preferentially accumulates within the Border Zones Regions of the Brain in Healthy Individuals,  
-        <em> Radiological Society of North America (RSNA)</em>.  
-         <strong>Chicago, Il, USA </strong> December 2024
-         <br><strong>* These authors contributed equally to this work</strong>
-      </td>
-    </tr>
+   </tr>
       <tr>
       <td style="border: none; padding: 10px;">
         <strong>Huck J</strong>, Jäger AT, Fan AP, Steele CJ, Grahl S, Schneider U, Villringer A, Tardif CL, Bazin PL, Gauthier CJ.  
@@ -376,6 +407,18 @@ toc_sticky: true
         High resolution atlasing of the venous brain vasculature from 7T quantitative susceptibility,  
         <em>PERFORM Centre Research Conference</em>.  
          <strong> Montreal, Canada</strong> May 2018
+      </td>
+    </tr>
+  </table>
+
+### Submitted Abstracts
+ <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none; padding: 10px;">
+        Zhou J, Wearn A, Hughes C, <strong>Huck J</strong>, Baracchini G, Sylvain E, Tremblay-Mercier J, Poirier J, Breitner J, Villeneuve S, Chakravarty M, Tardif CL, Gauthier CJ, Daugherty AM, Turner GR, Spreng RN, & PREVENT-AD Research Group.  
+        Longitudinal hippocampal iron accumulation predicts episodic memory in presymptomatic Alzheimer’s disease with additional influences of tau and APOE geneotype,  
+        <em>Alzheimer’s Association International Conference (AAIC)</em>.  
+         <strong> Toronto, Canada</strong> July 2025 (submission date: 30.01.2025)
       </td>
     </tr>
   </table>
