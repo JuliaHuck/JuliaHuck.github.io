@@ -146,7 +146,7 @@ toc_sticky: true
     </tr>
    <tr>
       <td style="border: none; padding: 10px;">
-        Nguyen C N, <strong>Huck J</strong>, Gutierrez J., Whittingstall K.  
+        Nguyen CN, <strong>Huck J</strong>, Gutierrez J., Whittingstall K.  
         Automatic mild intracranial stenosis detection in the Circle of Willis from Time-of-flight MRA,  
         <em>American Academy of Neurology (AAN)</em>.  
          <strong>San Diego, CA, USA, </strong> April 2025
@@ -307,7 +307,7 @@ toc_sticky: true
     </tr>
    <tr>
       <td style="border: none; padding: 10px;">
-        Nguyen C N,<strong>Huck J</strong>, Cote S, Tetreault P, Whittingstall K.  
+        Nguyen CN, <strong>Huck J</strong>, Cote S, Tetreault P, Whittingstall K.  
          Évaluation quantitative des rétrécissements artériels au polygone de willis: une approche basée sur la surface,  
         <em>FMSS Scientific Day</em>.  
          <strong>Sherbrooke, Canada </strong> June 2024
@@ -315,18 +315,68 @@ toc_sticky: true
     </tr>
    <tr>
       <td style="border: none; padding: 10px;">
-        Nguyen C N,<strong>Huck J</strong>, Cote S, Tetreault P, Whittingstall K.  
+        Nguyen CN, <strong>Huck J</strong>, Cote S, Tetreault P, Whittingstall K.  
         Amélioration de la quantification du polygone de Willis: une approche basée sur la reconstruction en 3d de la surface,  
         <em>Québec Bio-Imaging Network Annual Research Day</em>.  
          <strong>Montreal, Canada </strong> May 2024
       </td>
     </tr>
+   <tr>
+      <td style="border: none; padding: 10px;">
+        Doyon V, Côté S, <strong>Huck J</strong>, Whittingstall K.  
+        Étude de la perfusion de l’hippocampe par Super selective arterial spin labelling en IRM,  
+        <em>Québec Bio-Imaging Network Annual Research Day</em>.  
+         <strong>Montreal, Canada </strong> May 2024
+      </td>
+    </tr>
+   <tr>
+      <td style="border: none; padding: 10px;">
+        Vanderweyen D*, <strong>Huck J*</strong>, Côté S*, Fathy K*, Remahi S, Rheault F, Beaudoin A-M, Whittingstall K.  
+        White Matter Hyperintensities preferentially accumulates within the Border Zones Regions of the Brain in Healthy Individuals,  
+        <em> Radiological Society of North America (RSNA)</em>.  
+         <strong>Chicago, Il, USA </strong> December 2024
+         <br><strong>* These authors contributed equally to this work</strong>
+      </td>
+    </tr>
+      <tr>
+      <td style="border: none; padding: 10px;">
+        <strong>Huck J</strong>, Jäger AT, Fan AP, Steele CJ, Grahl S, Schneider U, Villringer A, Tardif CL, Bazin PL, Gauthier CJ.  
+       The bias of veins on resting state measures of centrality,  
+        <em>Quebec Bio-Imaging Network Annual Conference</em>.  
+         <strong> Montreal, Canada</strong> February 2020
+      </td>
+    </tr>
+   <tr>
+      <td style="border: none; padding: 10px;">
+        <strong>Huck J</strong>, Jäger AT, Fan AP, Steele CJ, Grahl S, Schneider U, Villringer A, Tardif CL, Bazin PL, Gauthier CJ.  
+        Global Degree centrality (DegC) in resting-state functional MRI is higher in nodes near veins and decreases over distance,  
+        <em>Quebec Bio-Imaging Network Annual Conference</em>.  
+         <strong> Montreal, Canada</strong> March 2019
+      </td>
+    </tr>
+    <tr>
+      <td style="border: none; padding: 10px;">
+        <strong>Huck J</strong>, Jäger AT, Fan AP, Steele CJ, Grahl S, Schneider U, Villringer A, Tardif CL, Bazin PL, Gauthier CJ.  
+        Global Degree centrality (DegC) in resting-state functional MRI is higher in nodes near veins and decreases over distance,  
+        <em>PERFORM Centre Research Conference</em>.  
+         <strong> Montreal, Canada</strong> May 2019
+      </td>
+    </tr>
+   <tr>
+      <td style="border: none; padding: 10px;">
+        <strong>Huck J</strong>, Jäger AT, Fan AP, Steele CJ, Grahl S, Schneider U, Villringer A, Tardif CL, Bazin PL, Gauthier CJ.  
+        High resolution atlasing of the venous brain vasculature from 7T quantitative susceptibility,  
+        <em>Quebec Bio-Imaging Network Annual Conference</em>.  
+         <strong> Montreal, Canada</strong> March 2018
+      </td>
+    </tr>
+    <tr>
+      <td style="border: none; padding: 10px;">
+        <strong>Huck J</strong>, Jäger AT, Fan AP, Steele CJ, Grahl S, Schneider U, Villringer A, Tardif CL, Bazin PL, Gauthier CJ.  
+        High resolution atlasing of the venous brain vasculature from 7T quantitative susceptibility,  
+        <em>PERFORM Centre Research Conference</em>.  
+         <strong> Montreal, Canada</strong> May 2018
+      </td>
+    </tr>
   </table>
 
-
-
-Doyon V, Côté S, Huck J, Whittingstall K. Étude de la perfusion de l’hippocampe par Super selective arterial spin labelling en IRM. Quebec BioImaging Network Annual Conference. Montreal, Canada; May 2024
-Vanderweyen D, Coté S, Huck J, Fathy F, Remahi S, Rheault F, Whittingstall K, Beaudoin A-M. White Matter Hyperintensities preferentially accumulates within the Border Zones Regions of the Brain in Healthy Individuals. Radiological Society of North America (RSNA), Chicago, USA, December 2024
-Huck J, Jäger AT, Fan AP, Steele CJ, Grahl S, Schneider U, Villringer A, Tardif CL, Bazin PL, Gauthier CJ; The bias of veins on resting state measures of centrality Quebec Bio-Imaging Network Annual Conference. Montreal, Canada February 2020
-Huck J, Jäger AT, Fan AP, Steele CJ, Grahl S, Schneider U, Villringer A, Tardif CL, Bazin PL, Gauthier CJ; Global Degree centrality (DegC) in resting-state functional MRI is higher in nodes near veins and decreases over distance. Quebec Bio-Imaging Network Annual Conference and PERFORM Centre Research Conference. Montreal, Canada March and May 2019, respectively
-Huck J, Wanner Y, Fan AP, Schmidt AT, Grahl S, Schneider U, Villringer A, Steele CJ, Tardif CL, Bazin PL, Gauthier CJ; High resolution atlasing of the venous brain vasculature from 7T quantitative susceptibility. Quebec Bio-Imaging Network Annual Conference and PERFORM Centre Research Conference. Montreal, Canada March and May 2018, respectively
