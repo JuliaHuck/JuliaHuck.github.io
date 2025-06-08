@@ -11,28 +11,28 @@ toc_sticky: true
 ---
 
 ## Education
-<div class="edu-entry">
-  <span class="edu-degree">Ph.D. Physics</span>   
-  <br><strong>Concordia University</strong>, Montreal, Quebec, Canada  
-  <br>2016–2022  
-  <br><em>Thesis:</em> *The Cerebral Venous Network: deoxyhemoglobin as contrast, bias and quantitative biomarker in magnetic resonance imaging*  
-  <br><em>Supervisor:</em> Claudine J. Gauthier  
+<div class="archive__item">
+  <strong><span style="color: var(--link-color);">Ph.D.</span> Physics</strong><br>
+  Concordia University, Montreal, Quebec, Canada<br>
+  <em>2016–2022</em><br>
+  <strong>Thesis:</strong> <em>The Cerebral Venous Network: deoxyhemoglobin as contrast, bias and quantitative biomarker in magnetic resonance imaging</em><br>
+  <strong>Supervisor:</strong> Claudine J. Gauthier
 </div>
 
-<div class="edu-entry">
-  <span class="edu-degree">M.Sc.</span> Medical Engineering  
-  <br><strong>Friedrich-Alexander University</strong>, Erlangen-Nürnberg, Germany  
-  <br>2012–2015  
-  <br><em>Thesis:</em>  
-  <br><em>Supervisor:</em>  
+<div class="archive__item">
+  <strong><span style="color: var(--link-color);">M.Sc.</span> Medical Engineering</strong><br>
+  Friedrich-Alexander University, Erlangen-Nürnberg, Germany<br>
+  <em>2012–2015</em><br>
+  <strong>Thesis:</strong><br>
+  <strong>Supervisor:</strong>
 </div>
 
-<div class="edu-entry">
-  <span class="edu-degree">B.Sc.</span> Medical Engineering and Sports Medical Engineering  
-  <br><strong>Hochschule Koblenz – RheinAhrCampus</strong>, Remagen, Germany  
-  <br>2008–2012  
-  <br><em>Thesis:</em>  
-  <br><em>Supervisor:</em>  
+<div class="archive__item">
+  <strong><span style="color: var(--link-color);">B.Sc.</span> Medical Engineering and Sports Medical Engineering</strong><br>
+  Hochschule Koblenz – RheinAhrCampus, Remagen, Germany<br>
+  <em>2008–2012</em><br>
+  <strong>Thesis:</strong><br>
+  <strong>Supervisor:</strong>
 </div>
 
 ## Skills
