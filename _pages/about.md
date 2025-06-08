@@ -52,43 +52,46 @@ toc_sticky: true
 <details open>
   <summary><strong>Programming Languages</strong></summary>
 
-<table>
-  <thead>
-    <tr>
-      <th>Language</th>
-      <th>Years of Experience</th>
-      <th>Experience Level</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>C</td>
-      <td>1</td>
-      <td>Beginner</td>
-    </tr>
-    <tr>
-      <td>C++</td>
-      <td>2</td>
-      <td>Beginner</td>
-    </tr>
-    <tr>
-      <td>MATLAB</td>
-      <td>6</td>
-      <td>Advanced</td>
-    </tr>
-    <tr>
-      <td>Java</td>
-      <td>5</td>
-      <td>Advanced</td>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td>5</td>
-      <td>Advanced</td>
-    </tr>
-  </tbody>
-</table>
+<div style="text-align: center;">
+  <table style="margin: auto; text-align: center;">
+    <thead>
+      <tr>
+        <th style="padding: 8px;">Language</th>
+        <th style="padding: 8px;">Years of Experience</th>
+        <th style="padding: 8px;">Experience Level</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 8px;">C</td>
+        <td style="padding: 8px;">1</td>
+        <td style="padding: 8px;">Beginner</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px;">C++</td>
+        <td style="padding: 8px;">2</td>
+        <td style="padding: 8px;">Beginner</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px;">MATLAB</td>
+        <td style="padding: 8px;">6</td>
+        <td style="padding: 8px;">Advanced</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px;">Java</td>
+        <td style="padding: 8px;">5</td>
+        <td style="padding: 8px;">Advanced</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px;">Python</td>
+        <td style="padding: 8px;">5</td>
+        <td style="padding: 8px;">Advanced</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 </details>
+
 ## Scholarships & Awards
 <div class="archive__item">
   <ul>
