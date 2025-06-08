@@ -3,6 +3,7 @@
    ========================================================================== */
 
 /* Colors */
+:root {
 $background-color: #521477 !default;
 $text-color: #fffd86 !default;
 $primary-color: #c327ab !default;
@@ -39,7 +40,7 @@ $base0c: #1faaaa !default;
 $base0d: #3777e6 !default;
 $base0e: #ad00a1 !default;
 $base0f: #cc6633 !default;
-
+}
 .author__urls.social-icons i,
 .author__urls.social-icons .svg-inline--fa,
 .page__footer-follow .social-icons i,
