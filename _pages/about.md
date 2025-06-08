@@ -52,44 +52,44 @@ toc_sticky: true
 <details open>
   <summary><strong>Programming Languages</strong></summary>
 
-<div style="text-align: center;">
-  <table style="margin: auto; text-align: center;">
-    <thead>
-      <tr>
-        <th style="padding: 8px;">Language</th>
-        <th style="padding: 8px;">Years of Experience</th>
-        <th style="padding: 8px;">Experience Level</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 8px;">C</td>
-        <td style="padding: 8px;">1</td>
-        <td style="padding: 8px;">Beginner</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px;">C++</td>
-        <td style="padding: 8px;">2</td>
-        <td style="padding: 8px;">Beginner</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px;">MATLAB</td>
-        <td style="padding: 8px;">6</td>
-        <td style="padding: 8px;">Advanced</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px;">Java</td>
-        <td style="padding: 8px;">5</td>
-        <td style="padding: 8px;">Advanced</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px;">Python</td>
-        <td style="padding: 8px;">5</td>
-        <td style="padding: 8px;">Advanced</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+  <div style="width: 100%; display: flex; justify-content: center;">
+    <table style="text-align: center; border-collapse: collapse;">
+      <thead>
+        <tr style="background-color: #ccc;">
+          <th style="padding: 10px;">Language</th>
+          <th style="padding: 10px;">Years of Experience</th>
+          <th style="padding: 10px;">Experience Level</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding: 10px;">C</td>
+          <td style="padding: 10px;">1</td>
+          <td style="padding: 10px;">Beginner</td>
+        </tr>
+        <tr>
+          <td style="padding: 10px;">C++</td>
+          <td style="padding: 10px;">2</td>
+          <td style="padding: 10px;">Beginner</td>
+        </tr>
+        <tr>
+          <td style="padding: 10px;">MATLAB</td>
+          <td style="padding: 10px;">6</td>
+          <td style="padding: 10px;">Advanced</td>
+        </tr>
+        <tr>
+          <td style="padding: 10px;">Java</td>
+          <td style="padding: 10px;">5</td>
+          <td style="padding: 10px;">Advanced</td>
+        </tr>
+        <tr>
+          <td style="padding: 10px;">Python</td>
+          <td style="padding: 10px;">5</td>
+          <td style="padding: 10px;">Advanced</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </details>
 
 ## Scholarships & Awards
