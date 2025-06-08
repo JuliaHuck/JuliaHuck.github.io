@@ -12,7 +12,7 @@ toc_sticky: true
 
 ## Education
 <div class="archive__item">
-  <strong><span style="color: var(--link-color);">Ph.D.</span> Physics</strong><br>
+  <strong><span style="color: var(--primary-color);">Ph.D. Physics</span> </strong><br>
   Concordia University, Montreal, Quebec, Canada<br>
   <em>2016–2022</em><br>
   <strong>Thesis:</strong> <em>The Cerebral Venous Network: deoxyhemoglobin as contrast, bias and quantitative biomarker in magnetic resonance imaging</em><br>
