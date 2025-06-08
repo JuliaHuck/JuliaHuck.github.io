@@ -3,11 +3,13 @@
    ========================================================================== */
 
 /* Colors */
-:root {
+
 $background-color: #f3f3f3 !default;
 $text-color: #343434 !default;
 $muted-text-color: #8e8b82 !default;
+:root {
 $primary-color: #343434 !default;
+}
 $border-color: #e9dcbe !default;
 $footer-background-color: #e9dcbe !default;
 $link-color: #343434 !default;
@@ -32,4 +34,4 @@ $base0c: #6eb958 !default;
 $base0d: #88a4d3 !default;
 $base0e: #bb90e2 !default;
 $base0f: #b49368 !default;
-}
+
