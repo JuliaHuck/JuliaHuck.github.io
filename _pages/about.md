@@ -25,7 +25,7 @@ toc_sticky: true
   <strong>{% include colored-degree.html label="M.Sc. Medical Engineering" %}</strong><br>
   Friedrich-Alexander University, Erlangen-Nürnberg, Germany<br>
   <em>2012–2015</em><br>
-  <strong>Thesis: Tracking of Saluent Structures in X-Ray Fluoroscopy Sequences</strong><br>
+  <strong>Thesis:</strong> Tracking of Saluent Structures in X-Ray Fluoroscopy Sequences<br>
   <strong>Supervisor: Andreas Maier</strong>
 </div>
 
@@ -34,13 +34,62 @@ toc_sticky: true
   <strong>{% include colored-degree.html label="B.Sc. Medical Engineering and Sports Medical Engineering" %}</strong><br>
   Hochschule Koblenz – RheinAhrCampus, Remagen, Germany<br>
   <em>2008–2012</em><br>
-  <strong>Thesis: Development of an in vitro-test for liability for encapsulation of intellugent implants</strong><br>
+  <strong>Thesis:</strong> Development of an in vitro-test for liability for encapsulation of intellugent implants<br>
   <strong>Supervisor:Volker Bucher and Jens Bongartz</strong>
 </div>
 
 ## Skills
+<details open>
+  <summary><strong>Languages</strong></summary>
 
-## Scholarships
+<ul>
+  <li><strong>German:</strong> Native proficiency</li>
+  <li><strong>English:</strong> Fluent (spoken and written)</li>
+  <li><strong>French:</strong> Intermediate (B1); currently taking private lessons to improve</li>
+</ul>
+</details>
+
+<details open>
+  <summary><strong>Programming Languages</strong></summary>
+
+<table>
+  <thead>
+    <tr>
+      <th>Language</th>
+      <th>Years of Experience</th>
+      <th>Experience Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>C</td>
+      <td>1</td>
+      <td>Beginner</td>
+    </tr>
+    <tr>
+      <td>C++</td>
+      <td>2</td>
+      <td>Beginner</td>
+    </tr>
+    <tr>
+      <td>MATLAB</td>
+      <td>6</td>
+      <td>Advanced</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>5</td>
+      <td>Advanced</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>5</td>
+      <td>Advanced</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+## Scholarships & Awards
 <div class="archive__item">
   <ul>
     <li><strong>2023</strong> — <em>FRQNT Postdoctoral (B3X) Research Scholarship</em>, <br> The Fonds de recherche du Québec Nature et technologies — <strong>$90,000</strong></li>
@@ -79,6 +128,37 @@ toc_sticky: true
   </ul>
 </div>
 
-## Awards
 
 ## Mentorship
+<ul>
+  <li><strong>Yvonne Wanner</strong>, MITACS summer intern<br>
+      <em>May 2017 – August 2017</em>
+  </li>
+  <li><strong>Richard Bingley</strong>, Specialization project<br>
+      <em>January 2018 – May 2018</em>
+  </li>
+  <li><strong>Laura Bilicz</strong>, <a href="https://summerofcode.withgoogle.com/" target="_blank">Google Summer of Code</a><br>
+      <em>May 2018 – August 2018</em>
+  </li>
+  <li><strong>Timur Zhanabaev</strong>, Specialization project<br>
+      <em>May 2019 – August 2019</em>
+  </li>
+  <li><strong>Chan Nam Nguyen</strong>, Master Student<br>
+      <em>January 2024 – Present</em>
+  </li>
+  <li><strong>Charley Wing</strong>, Master Student<br>
+      <em>June 2024 – Present</em>
+  </li>
+  <li><strong>Cedrik Marchildon</strong>, Master Student<br>
+      <em>July 2023 – Present</em>
+  </li>
+  <li><strong>Vincent Doyon</strong>, PhD Student<br>
+      <em>April 2024 – Present</em>
+  </li>
+  <li><strong>Marie-Laurence Bilodeau</strong>, Summer Intern<br>
+      <em>June 2024 – September 2024</em>
+  </li>
+  <li><strong>Mathilde Langlois</strong>, Master Student<br>
+      <em>January 2024 – Present</em>
+  </li>
+</ul>
