@@ -332,7 +332,7 @@ toc_sticky: true
       <td style="border: none; padding: 10px;">
         Langlois M, <strong>Huck J</strong>, Nguyen C N, Vanderweyen D, Côté S, Bouchard L, Whittingstall K.  
         L’origine des variations anatomiques des artères communicantes du cercle de willis,  
-        <em>FMSS Scientific Day</em>.  
+        <em>Journée scientifique de la FMSS</em>.  
          <strong>Sherbrooke, Canada </strong> June 2024
       </td>
     </tr>
@@ -340,7 +340,7 @@ toc_sticky: true
       <td style="border: none; padding: 10px;">
         Vanderweyen D*, <strong>Huck J*</strong>, Côté S*, Fathy K*, Remahi S, Rheault F, Beaudoin A-M, Whittingstall K.  
         L'Accumulation préférentielle des hyperintensités de la matière blanche dans les régions limitrophes du cerveau chez les individus sains,  
-        <em>FMSS Scientific Day</em>.  
+        <em>Journée scientifique de la FMSS</em>.  
          <strong>Sherbrooke, Canada </strong> June 2024
          <br><strong>* These authors contributed equally to this work</strong>
       </td>
@@ -349,7 +349,7 @@ toc_sticky: true
       <td style="border: none; padding: 10px;">
         Nguyen CN, <strong>Huck J</strong>, Cote S, Tetreault P, Whittingstall K.  
          Évaluation quantitative des rétrécissements artériels au polygone de willis: une approche basée sur la surface,  
-        <em>FMSS Scientific Day</em>.  
+        <em>Journée scientifique de la FMSS</em>.  
          <strong>Sherbrooke, Canada </strong> June 2024
       </td>
     </tr>
