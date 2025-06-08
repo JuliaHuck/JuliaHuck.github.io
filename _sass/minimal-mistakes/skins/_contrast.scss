@@ -3,10 +3,11 @@
    ========================================================================== */
 
 /* Colors */
-:root {
 $text-color: #000 !default;
 $muted-text-color: $text-color !default;
+:root {
 $primary-color: #b60000 !default;
+}
 $border-color: mix(#fff, $text-color, 75%) !default;
 $footer-background-color: #000 !default;
 $link-color: #0000ff !default;
@@ -31,7 +32,7 @@ $base0c: #c6c5fe !default;
 $base0d: #96cbfe !default;
 $base0e: #ff73fd !default;
 $base0f: #b18a3d !default;
-}
+
 .page__content {
   .notice,
   .notice--primary,
