@@ -11,9 +11,34 @@ header:
   width: "300px"
 ---
 
-<img src="/assets/julia_photo.png" width="340px" alt="Julia Huck" align="right" style="margin-left: 40px; margin-bottom: 10px;" />
+<!-- <img src="/assets/julia_photo.png" width="340px" alt="Julia Huck" align="right" style="margin-left: 40px; margin-bottom: 10px;" /> -->
 
 # About
+
+## 🧠 Research Interests
+<div class="archive__item">
+
+  <ul>
+    <li><strong>{% include colored-degree.html label="Cerebrovascular Health and Brain Aging" %}</strong><br>
+    Investigating how vascular factors such as white matter hyperintensities (WMHs), cerebral perfusion, and oxygen metabolism contribute to cognitive decline during aging.</li>
+
+    <li><strong>Quantitative MRI and Hemodynamic Mapping</strong><br>
+    Developing and applying advanced MRI techniques (e.g., QSM, OEF mapping, ASL) to assess brain oxygenation, perfusion, and microvascular integrity.</li>
+
+    <li><strong>Vascular Contributions to Neurodegeneration</strong><br>
+    Studying how impaired vascular function and reduced oxygen delivery may contribute to the development and progression of neurodegenerative conditions.</li>
+
+    <li><strong>Women's Brain Health and Hormonal Influences</strong><br>
+    Exploring how reproductive history, hormonal changes, and sex differences impact cerebrovascular function and brain structure.</li>
+
+    <li><strong>AI-Assisted Image Processing and Vascular Biomarkers</strong><br>
+    Building and validating automated pipelines for segmenting cerebral vasculature and extracting imaging biomarkers in large-scale datasets.</li>
+
+    <li><strong>Translational Imaging in At-Risk Populations</strong><br>
+    Applying quantitative MRI to study brain health in individuals with elevated cardiometabolic or genetic risk for cognitive decline (e.g., ApoE4 carriers).</li>
+  </ul>
+  
+</div>
 
 I am a neuroscientist with a strong background in quantitative vascular neuroimaging and a growing interest in the influence of hormones on brain health. My work bridges structural and physiological brain imaging to understand how vascular health contributes to cognitive aging and brain vulnerability. I specialize in advanced MRI methods, multimodal data integration, and the development of neuroimaging tools to investigate brain oxygenation, perfusion, and vascular anatomy.
 
