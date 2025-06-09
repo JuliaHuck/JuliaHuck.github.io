@@ -11,7 +11,7 @@ header:
   width: "300px"
 ---
 
-<!-- <img src="/assets/julia_photo.png" width="340px" alt="Julia Huck" align="right" style="margin-left: 40px; margin-bottom: 10px;" /> -->
+<img src="/assets/julia_photo.png" width="340px" alt="Julia Huck" align="right" style="margin-left: 40px; margin-bottom: 10px;" />
 
 # About
 
