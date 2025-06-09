@@ -23,7 +23,7 @@ toc_sticky: true
     <li><strong>{% include colored-degree.html label="Vascular Contributions to Neurodegeneration" %}</strong><br>
     Studying how impaired vascular function and reduced oxygen delivery may contribute to the development and progression of neurodegenerative conditions.</li>
 
-    <li><strong{% include colored-degree.html label="Women's Brain Health and Hormonal Influences" %}></strong><br>
+    <li><strong>{% include colored-degree.html label="Women's Brain Health and Hormonal Influences" %}</strong><br>
     Exploring how reproductive history, hormonal changes, and sex differences impact cerebrovascular function and brain structure.</li>
 
     <li><strong>{% include colored-degree.html label="AI-Assisted Image Processing and Vascular Biomarkers" %}</strong><br>
@@ -35,13 +35,6 @@ toc_sticky: true
   
 </div>
 
-## 🔬 Current Projects
-
-- **White Matter Hyperintensities in Borderzones**  
-  Investigating how WMH distribution overlaps with vascular watershed regions in aging individuals.
-
-- **Cerebral Arterial Stenosis & Sex Differences**  
-  Exploring sex-based differences in cerebral arterial narrowing and associated brain volume changes.
   
 ## ✅ Completed Projects
 
@@ -54,14 +47,14 @@ toc_sticky: true
 - **Oxygen Metabolism in APOE ε4 Carriers** – Combined ASL and susceptibility-based imaging 
 
 ## 🧲 MRI Techniques Used
-- **QSM (Quantitative Susceptibility Mapping)**  
-  For mapping venous anatomy and estimating tissue magnetic susceptibility.
-
-- **ASL (Arterial Spin Labeling)**  
-  For non-invasive measurement of cerebral blood flow.
+- **QSM (Quantitative Susceptibility Mapping)** 
+  For mapping venous anatomy and estimating tissue magnetic susceptibility. Also used for estimating oxygen extraction fraction (OEF) in veins and assessing iron accumulation in the basal ganglia.
 
 - **SWI (Susceptibility-Weighted Imaging)**  
   For visualizing venous vasculature and microbleeds.
+
+- **ASL (Arterial Spin Labeling)**  
+  For non-invasive measurement of cerebral blood flow.
 
 - **T1- and T2-weighted imaging**  
   For structural analysis and segmentation.
