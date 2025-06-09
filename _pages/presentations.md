@@ -34,7 +34,7 @@ toc_sticky: true
         <strong>Huck J</strong>, Jäger AT, Schneider U, Grahl S, Fan AP, Tardif CL, Villringer A, Bazin PL, Steele CJ, Gauthier CJ.  
         Modelling venous bias in resting state functional MRI metrics.
         <em> Quebec BioImaging Network Annual Conference</em>.  
-         <strong> Montreal, Canada </strong> June 2022
+         <strong> Sherbrooke, Canada </strong> June 2022
       </td>
     </tr>
   <tr>
